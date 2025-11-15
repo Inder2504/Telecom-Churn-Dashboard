@@ -16,4 +16,5 @@ This dashboard provides a direct, side-by-side comparison of the total customer 
 - At a Glance Segmentation: Details key differences across demographics, contract types, payment methods, and services to pinpoint high-risk segments.
 
 4. Screenshots / Demos
-![Dashboard Preview].(https://github.com/Inder2504/Telecom-Churn-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png).
+Dashboard - ![Alt text].(https://github.com/username/repo/assets/image.png).
+Example: ![Dashboard Preview].(https://github.com/Inder2504/Telecom-Churn-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png).
