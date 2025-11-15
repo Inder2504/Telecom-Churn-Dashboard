@@ -14,7 +14,3 @@ This dashboard provides a direct, side-by-side comparison of the total customer 
 - Users with Fiber Optic internet (69% of churners)
 - Financial Impact: Churners had a higher average monthly charge ($74.44) than the average customer ($64.76), indicating the loss of high-value accounts early in their lifecycle.
 - At a Glance Segmentation: Details key differences across demographics, contract types, payment methods, and services to pinpoint high-risk segments.
-
-4. Screenshots / Demos
-Dashboard - ![Alt text].(https://github.com/username/repo/assets/image.png).
-Example: ![Dashboard Preview].(https://github.com/Inder2504/Telecom-Churn-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png).
